@@ -1,0 +1,37 @@
+input {
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+    border-radius: 5px;
+    *background-color:yellowgreen;
+}
+
+label {
+    padding: 20px;
+    margin-right: 5px;
+    color: #fff;
+    *background-color:red;
+}
+
+button {
+    margin-top: 45px;
+    font-size: 20px;
+    background-color: #000;
+    color: #0f0;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 40%;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+}
+
+.cad {
+    padding: 20px;
+    height: 300px;
+    width: 800px;
+    background-color: rgb(1, 39, 21);
+}

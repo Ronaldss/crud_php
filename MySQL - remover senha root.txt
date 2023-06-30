@@ -1,0 +1,5 @@
+Acessar o command line client
+
+comando:
+set password for root@localhost='';    //retirar a senha
+set password for root@localhost='123'; //alterar a senha

@@ -1,0 +1,11 @@
+Etapas #001 CRUD
+
+0 - Istalar e configurar MySQL, Workbench e Xampp
+1 - Criar o banco de dados teste
+2 - Criar tabela dados no mysql
+3 - Criar dois arquivos (cadastro.html e envia.php)
+
+Colunas da tabela Dados
+- nome
+- idade
+- cpf
