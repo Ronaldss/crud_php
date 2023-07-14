@@ -1,0 +1,9 @@
+[php.ini] - Configurações básicas
+
+Obs: Toda alteração de configuração feita no php.ini deve-se reiniciar o servidor (xampp)
+
+Habilitar exibição de erros:
+display_errors=On
+
+Desabilitar short open tag <?   ?>
+short_open_tag=Off
