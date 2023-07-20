@@ -20,11 +20,15 @@
     
     <details>
         <summary>Tipos Primitivos - Compostas</summary>
-        <p>Coisas das Compostas</p>
+        <p>array</p>
+        <p>object</p>
     </details><br>
     <details>
         <summary>Tipos Primitivos - Especiais</summary>
-        <p>Coisas das Especiais</p>
+        <p>null</p>
+        <p>resource</p>
+        <p>callabe</p>
+        <p>mixed</p>
     </details><br>
     
     
